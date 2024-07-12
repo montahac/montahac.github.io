@@ -1,22 +1,22 @@
 ---
 permalink: /
-title: "Montaha Chowdhury's Website"
+title: "Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-##  🎉 🎉 Welcome to my personal website!  🎉 🎉
+##  🎉 🎉 Welcome Visitor!  🎉 🎉
 
-My name is Montaha Chowdhury, and I am passionate about sharing my academic progress, achievements, and ongoing projects in the field of bioinformatics. This platform serves as a portfolio where you can explore my publications, GitHub repositories, and various research endeavors.
+This is to share my academic progress, achievements, and ongoing projects in the field of bioinformatics. This platform serves as a portfolio where you can explore my publications, GitHub repositories, and various research endeavors.
 
 ## **Mission** 🏁
 The primary mission of this website is to provide a transparent and detailed account of my academic journey. I aim to connect with bioinformaticians, academics, and professors who share my enthusiasm for solving complex biological problems through innovative research. 
 
 ## **Background** 🤝
 I graduated with a BSc in _Bioinformatics_ (Asian University for Women), following which I completed my MSc in _Cancer Immunology & Biotechnology_ (University of Nottingham). Following graduation, I worked as a Genomics Diagnostic Scientist at [SourceBioscience
-](https://sourcebioscience.com/genomics-services-and-covid-19/), where I helped test over 250 samples a day for COVID-19. I later joined the [COVID-19 Surveillance Team](https://www.ndm.ox.ac.uk/covid-19/covid-19-infection-survey) at Wellcome Centre for Humana Genetics at University of Oxford, a collaboration with[ Office of National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases). I later joined as an RA at Siebold Group, Divison of STRUBI at Oxford. You can learn more about my academic research under my projects section. 
+](https://sourcebioscience.com/genomics-services-and-covid-19/), where I helped test over 250 samples a day for COVID-19. I later joined the [COVID-19 Surveillance Team](https://www.ndm.ox.ac.uk/covid-19/covid-19-infection-survey) at Wellcome Centre for Humana Genetics at University of Oxford, a collaboration with[ Office of National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases). I later joined as an RA at [Siebold Group](https://www.strubi.ox.ac.uk/research/professor-christian-siebold), Divison of STRUBI at Oxford. You can learn more about my academic research under my projects section. 
 
 Simultaneously, I am training as a Data Scientist 
 
