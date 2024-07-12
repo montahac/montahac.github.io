@@ -2,9 +2,10 @@
 title: "The genome assembly of the Black Bengal goat (Capra hircus)"
 excerpt: "This study presents the genomic analysis of a healthy male Black Bengal goat from Chattogram, Bangladesh. Using the Illumina HiSeq 2500 platform, the genome was sequenced and assembled, resulting in a 3.04 Gb genome with 82.5% completeness. The annotation identified 26,458 gene models and 31.85% repeat elements. Gene ontology analysis linked 12,589 GO terms to 8,173 genes. The genomic data is available in NCBI GenBank, offering valuable insights for future research and breeding programs.
 
-Advisors: Professor [AMAM Zonaed Siddiki](https://cvasu.ac.bd/user-profile/29) (Chattogram Veterinary and Animal Sciences University (CVASU)) and Professor A[KM Moniruzzaman Mollah](https://www.linkedin.com/in/shopon-mollah-9a306b5) (Asian University for Women)"
+Advisors: Professor [AMAM Zonaed Siddiki](https://cvasu.ac.bd/user-profile/29) (Chattogram Veterinary and Animal Sciences University (CVASU)) and Professor A[KM Moniruzzaman Mollah](https://www.linkedin.com/in/shopon-mollah-9a306b5) (Asian University for Women)
 
 <br/><img src='/images/500x300.png'>"
+
 collection: portfolio
 ---
 
