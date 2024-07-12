@@ -27,6 +27,8 @@ The primary mission of this website is to provide a transparent and detailed acc
 I graduated with a BSc in _Bioinformatics_ (Asian University for Women), following which I completed my MSc in _Cancer Immunology & Biotechnology_ (University of Nottingham). Following graduation, I worked as a Genomics Diagnostic Scientist at [SourceBioscience
 ](https://sourcebioscience.com/genomics-services-and-covid-19/), where I helped test over 250 samples a day for COVID-19. I later joined the [COVID-19 Surveillance Team](https://www.ndm.ox.ac.uk/covid-19/covid-19-infection-survey) at Wellcome Centre for Humana Genetics at University of Oxford, a collaboration with[ Office of National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases). I later joined as an RA at Siebold Group, Divison of STRUBI at Oxford. You can learn more about my academic research under my projects section. 
 
+Simultaneously, I am training as a Data Scientist 
+
 I am eager to leverage my bioinformatics expertise to address and overcome the biological and computational challenges faced in both clinical and academic settings in Bangladesh. My goal is to contribute to the advancement of these fields through innovative research and practical applications, ultimately enhancing healthcare and scientific knowledge in my home country.
 
 **Research Interests:** 🧬🧬
@@ -37,18 +39,19 @@ I am eager to leverage my bioinformatics expertise to address and overcome the b
 
 - _Innovative Research Methodologies:_ Utilizing cutting-edge techniques and tools to push the boundaries of bioinformatics research.
   
-- _Interdisciplinary Collaboration:_ Working across different scientific domains to foster a more comprehensive understanding of biological phenomena.
-
-## **Core Values** 🔬
+- _Machine Learning:_ Developing ML algorithms in developing computational tools.
+  
+## **Learning Skills (Ongoing)** 🔬
 My core values are deeply rooted in my approach to research and personal growth:
 
-_Passion for Solving Biological Problems:_ I am driven by a genuine curiosity and desire to address complex biological questions.
+Programming Languages
+‣ R, Bash, Python, Perl
 
-_Commitment to Learning:_ I believe in the importance of continuous learning and strive to upgrade my skills and knowledge every day.
+Tools & Softwares
+‣ GATK, bcftools, samtools, RShiny, BBMap, Bioconductor, NextFlow, and Docker.
 
-_Scientific Integrity:_ Upholding the highest standards of honesty and accuracy in all my research endeavors.
-
-_Collaboration and Innovation:_ Valuing teamwork and creative problem-solving to advance the field of bioinformatics.
+Machine Leaning:
+‣ PyTorch, TensorFlow, NumPy
 
 ## **Fun Facts About Me** 🔥
 
