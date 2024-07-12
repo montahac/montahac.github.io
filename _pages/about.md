@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "Montaha Chowdhury"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ##  🎉 🎉 Welcome to my personal website!  🎉 🎉
 
 My name is Montaha Chowdhury, and I am passionate about sharing my academic progress, achievements, and ongoing projects in the field of bioinformatics. This platform serves as a portfolio where you can explore my publications, GitHub repositories, and various research endeavors.
